@@ -36,6 +36,7 @@
     
   },
   "devDependencies": {
-    "webpack-dev-server": "^2.9.4"
+    "live-server": "^1.2.0",
+    "webpack-dev-server": "2.5.1"
   }
 }
